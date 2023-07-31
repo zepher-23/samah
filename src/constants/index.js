@@ -46,56 +46,25 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
+    title: 'Digital Marketing',
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'Operations Manager',
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
+    title: 'Chief Executive Officer',
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Administration and Lead Generation',
     icon: prototyping,
   },
 ];
 
 const technologies = [
-  {
-    name: 'HTML 5',
-    icon: html,
-  },
-  {
-    name: 'CSS 3',
-    icon: css,
-  },
-  {
-    name: 'JavaScript',
-    icon: javascript,
-  },
-  {
-    name: 'TypeScript',
-    icon: typescript,
-  },
-  {
-    name: 'React JS',
-    icon: reactjs,
-  },
-  {
-    name: 'Redux Toolkit',
-    icon: redux,
-  },
-  {
-    name: 'Tailwind CSS',
-    icon: tailwind,
-  },
-  {
-    name: 'Node JS',
-    icon: nodejs,
-  },
+ 
   {
     name: 'Rails',
     icon: rubyrails,
@@ -124,34 +93,37 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'Internship Trainee',
+    company_name: 'Lenovo India PVT LTD',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: '2018 ',
   },
+  
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Digital Marketing Manageer',
+    company_name: 'Arena Animations Mangalore',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Jan 2018 - Feb 2019',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: 'Operations Manager',
+    company_name: 'EastEasy ae',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
+    date: 'Jun 2018 - Oct 2019',
   },
   {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
+    title: 'Chief Executive Officer',
+    company_name: 'Zephyr Technologies  Solutions PVT LTD',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Oct 2019 - Present',
   },
 ];
+
+
 
 const projects = [
   {
