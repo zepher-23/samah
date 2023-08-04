@@ -181,8 +181,8 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'Arena Animations',
+    description: 'This is a franchise of Arena Animations, One of the top animation insitute.',
     tags: [
       {
         name: 'nextjs',
@@ -203,7 +203,7 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
+    name: 'DrDevans Academy',
     description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
     tags: [
       {
@@ -225,9 +225,9 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'Taco Street',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'This is a popular food join known all over Mangalore.',
     tags: [
       {
         name: 'nextjs',
