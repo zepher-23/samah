@@ -33,6 +33,8 @@ import {
   dcc,
   kelhel,
   microverse,
+  eatEasy,
+  zephyr
 } from '../assets';
 
 export const navLinks = [
@@ -134,8 +136,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'EatEasy',
+    description: 'A food delivery App that provides home packed food.',
     tags: [
       {
         name: 'react',
@@ -150,15 +152,15 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: komikult,
+    image: eatEasy,
     repo: 'https://github.com/shaqdeff/KomiKult',
     demo: 'https://shaqdeff.github.io/KomiKult/',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Zephyr Learn',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'A leading educational platform for learning, training and career guidance.',
     tags: [
       {
         name: 'react',
@@ -173,7 +175,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
+    image: zephyr,
     repo: 'https://github.com/shaqdeff/Leaderboard',
     demo: 'https://shaqdeff.github.io/Leaderboard/',
   },

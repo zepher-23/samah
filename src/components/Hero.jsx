@@ -46,8 +46,8 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas.
+            Unleashing Potential  <br className="sm:block hidden" />
+              -Empowering Growth Through Innovation and Leadership
             </p>
           </div>
           <div
@@ -81,15 +81,15 @@ const Hero = () => {
         </div>
 
         {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
-        <div>
-          {/* <img
+        {/* <div>
+          <img
             className="absolute bottom-0 ml-[50vw] 
             lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[83vw]
             sm:h-[90vh] md:h-[70vh] xl:h-[80vh]"
             src={shaq}
             alt="shaquille"
-          /> */}
-        </div>
+          />
+        </div> */}
       </section>
     </>
   );

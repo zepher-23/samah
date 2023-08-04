@@ -29,6 +29,9 @@ import sales from './tech/new/sales.png';
 import digital from './tech/new/digital.png';
 import photoshop from './tech/new/photoshop.png';
 
+import eatEasy from './projects/eatEasy.png'
+import zephyr from './projects/zephyr.png'
+
 import css from './tech/css.png';
 import docker from './tech/docker.png';
 import figma from './tech/figma.png';
@@ -107,5 +110,7 @@ export {
   contentWriting,
   sales,
   photoshop,
-  digital
+  digital,
+  eatEasy,
+  zephyr
 };
