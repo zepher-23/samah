@@ -3,14 +3,20 @@ import {
   backend,
   ux,
   prototyping,
-  business,
-  digital,
-  sales,
-  photoshop,
-  content_writing,
-  content_creation,
+  javascript,
+  typescript,
+  html,
+  css,
+  reactjs,
+  redux,
   tailwind,
   nodejs,
+  business,
+  contentCreation,
+  contentWriting,
+  sales,
+  digital,
+  photoshop,
   git,
   figma,
   docker,
@@ -65,30 +71,30 @@ const services = [
 
 const technologies = [
  
-  // {
-  //   name: 'photoshop',
-  //   icon: photoshop,
-  // },
-  // {
-  //   name: 'digital',
-  //   icon: digital,
-  // },
-  // {
-  //   name: 'content_writing',
-  //   icon: content_writing,
-  // },
-  // {
-  //   name: 'sales',
-  //   icon: sales,
-  // },
-  // {
-  //   name: 'content_creation',
-  //   icon: content_creation,
-  // },
-  // {
-  //   name: 'business',
-  //   icon: business,
-  // },
+  {
+    name: 'Business Strategy',
+    icon: business,
+  },
+  {
+    name: 'Digital marketing',
+    icon: digital,
+  },
+  {
+    name: 'Sales',
+    icon: sales,
+  },
+  {
+    name: 'Content Creation',
+    icon: contentCreation,
+  },
+  {
+    name: 'Content Writing',
+    icon: contentWriting,
+  },
+  {
+    name: 'Photoshop',
+    icon: photoshop,
+  },
 ];
 
 const experiences = [

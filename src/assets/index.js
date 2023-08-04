@@ -22,14 +22,20 @@ import menu from './icons/menu.png';
 import resume from './icons/resume.png';
 import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
+import business from './tech/new/business.png'
+import contentCreation from './tech/new/content_creation.png';
+import contentWriting from './tech/new/content_writing.png';
+import sales from './tech/new/sales.png';
+import digital from './tech/new/digital.png';
+import photoshop from './tech/new/photoshop.png';
 
 import css from './tech/css.png';
-import business from './tech/business.png';
-import content_creation from './tech/content_creation.png';
-import content_writing from './tech/content_writing.png';
-import digital from './tech/digital.png';
-import photoshop from './tech/photoshop.png';
-import sales from './tech/sales.png';
+import docker from './tech/docker.png';
+import figma from './tech/figma.png';
+import git from './tech/git.png';
+import html from './tech/html.png';
+import javascript from './tech/javascript.png';
+import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
 import redux from './tech/redux.png';
 import tailwind from './tech/tailwind.png';
@@ -72,13 +78,7 @@ export {
   resume,
   send,
   sendHover,
-  business,
-  content_creation,
-  content_writing,
-  sales,
-  digital,
-  photoshop,
-  
+  css,
   docker,
   figma,
   git,
@@ -102,4 +102,10 @@ export {
   dcc,
   kelhel,
   microverse,
+  business,
+  contentCreation,
+  contentWriting,
+  sales,
+  photoshop,
+  digital
 };

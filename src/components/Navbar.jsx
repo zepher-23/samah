@@ -27,7 +27,8 @@ const Navbar = () => {
           />
 
           {/* if you have text you want besides your logo it comes here.
-          Otherwise delete this if you don't need it. */<h1 className='text-black font-beckman text-[21px] font-medium cursor-pointer nav-links ' >Abdulla Abid Samah</h1>}
+          Otherwise delete this if you don't need it. */
+            <h1 className='text-black font-beckman text-[21px] font-medium cursor-pointer nav-links ' >Abdulla Abid Samah</h1>}
           {/* <img
             src={logotext}
             alt="logo"
