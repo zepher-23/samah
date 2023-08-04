@@ -3,12 +3,12 @@ import {
   backend,
   ux,
   prototyping,
-  javascript,
-  typescript,
-  html,
-  css,
-  reactjs,
-  redux,
+  business,
+  digital,
+  sales,
+  photoshop,
+  content_writing,
+  content_creation,
   tailwind,
   nodejs,
   git,
@@ -65,30 +65,30 @@ const services = [
 
 const technologies = [
  
-  {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
-    name: 'graphql',
-    icon: graphql,
-  },
-  {
-    name: 'postgresql',
-    icon: postgresql,
-  },
-  {
-    name: 'git',
-    icon: git,
-  },
-  {
-    name: 'figma',
-    icon: figma,
-  },
-  {
-    name: 'docker',
-    icon: docker,
-  },
+  // {
+  //   name: 'photoshop',
+  //   icon: photoshop,
+  // },
+  // {
+  //   name: 'digital',
+  //   icon: digital,
+  // },
+  // {
+  //   name: 'content_writing',
+  //   icon: content_writing,
+  // },
+  // {
+  //   name: 'sales',
+  //   icon: sales,
+  // },
+  // {
+  //   name: 'content_creation',
+  //   icon: content_creation,
+  // },
+  // {
+  //   name: 'business',
+  //   icon: business,
+  // },
 ];
 
 const experiences = [
