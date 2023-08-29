@@ -9,6 +9,7 @@ import { experiences } from '../constants';
 import { SectionWrapper } from '../hoc';
 import { download, downloadHover, resume } from '../assets';
 import { textVariant } from '../utils/motion';
+import Samah from './Samah.pdf'
 
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
@@ -100,12 +101,7 @@ const Experience = () => {
               sm:mt-[22px] mt-[16px] hover:bg-battleGray 
               hover:text-eerieBlack transition duration-[0.2s] 
               ease-in-out"
-              onClick={() =>
-                window.open(
-                  'resume link', //paste the link to your resume here
-                  '_blank'
-                )
-              }
+              
               onMouseOver={() => {
                 document
                   .querySelector('.download-btn')
@@ -116,7 +112,7 @@ const Experience = () => {
                   .querySelector('.download-btn')
                   .setAttribute('src', download);
               }}>
-              MY RESUME
+            <a href="/Samah.pdf" download={"Samah.pdf"}>  MY RESUME</a>
               <img
                 src={download}
                 alt="download"
